@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://asset.cloudinary.com/ds6lr1r9k/c390cf9ffdaaa9de3483ce330a45f240">
+<img src="https://res.cloudinary.com/ds6lr1r9k/image/upload/v1710722644/PRODUCTOS%20VARIOS/bpbgdms4bklu0fdfbh2w.gif"
 <!--
 **GeraAmaya/GeraAmaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
