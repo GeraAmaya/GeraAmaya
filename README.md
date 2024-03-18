@@ -2,4 +2,4 @@
 <hr/>
 <img src="https://res.cloudinary.com/ds6lr1r9k/image/upload/v1710722644/PRODUCTOS%20VARIOS/bpbgdms4bklu0fdfbh2w.gif"/>
 <hr/>
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=LachlanDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
